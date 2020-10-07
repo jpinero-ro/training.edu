@@ -1,0 +1,4 @@
+[submodule "ingeint/l10n_ec_acc"]
+	path = ingeint/l10n_ec_acc
+	url = git@github.com:ingeint/l10n_ec_acc.git
+	branch = master
